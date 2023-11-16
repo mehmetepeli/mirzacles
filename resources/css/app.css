@@ -1,0 +1,11 @@
+.user__avatar {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    object-fit: contain;
+}
+
+.user__avatar img {
+    width: 100%;
+    height: 100%;
+}
